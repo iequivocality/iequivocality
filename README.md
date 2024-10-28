@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Currently working on
-* [Project Bocchi]([https://duckduckgo.com](https://projectbocchi.vercel.app/map))
+* [Project Bocchi](https://projectbocchi.vercel.app/map)
 * [Ambi.Moe](https://ambi.moe/)
 
 <!--
