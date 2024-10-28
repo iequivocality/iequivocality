@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Currently working on
+* [Project Bocchi]([https://duckduckgo.com](https://projectbocchi.vercel.app/map))
+* [Ambi.Moe](https://ambi.moe/)
+
 <!--
 **iequivocality/iequivocality** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
