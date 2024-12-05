@@ -3,6 +3,7 @@
 Currently working on
 * [Project Bocchi](https://projectbocchi.vercel.app/map)
 * [Ambi.Moe](https://ambi.moe/)
+* [japan-prefectures-react](https://github.com/iequivocality/japan-prefectures-react)
 
 <!--
 **iequivocality/iequivocality** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
