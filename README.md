@@ -5,6 +5,9 @@ Currently working on
 * [Ambi.Moe](https://ambi.moe/)
 * [japan-prefectures-react](https://github.com/iequivocality/japan-prefectures-react)
 
+I don't code in Python as much but I really like this project.
+* [Bemiho](https://github.com/iequivocality/bemiho)
+
 <!--
 **iequivocality/iequivocality** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
