@@ -16,4 +16,4 @@ on his spare time while rewatching his favorite shows for the 49th time.
 * Machine Learning from various sources
 * Re-learning Math
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,nextjs,nodejs,discordjs,angular,electron,pnpm,py,react,vite,threejs,vercel,vscode&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,nextjs,nodejs,discordjs,angular,electron,pnpm,py,react,vite,threejs,vercel,vscode)](https://skillicons.dev)
