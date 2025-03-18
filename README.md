@@ -16,10 +16,9 @@ on his spare time while rewatching his favorite shows for the 49th time.
 * Machine Learning from various sources
 * Re-learning Math
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,nextjs,nodejs,discordjs,angular,electron,pnpm,py,react,vite,threejs,vercel,vscode&perline=8)](https://skillicons.dev)
+<br>
+<br>
+<br>
+<br>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="[https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=js,html,css,tailwind,nextjs,nodejs,discordjs,angular,electron,pnpm,py,react,vite,threejs,vercel,vscode&perline=8)" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,nextjs,nodejs,discordjs,angular,electron,pnpm,py,react,vite,threejs,vercel,vscode&perline=8)](https://skillicons.dev)
