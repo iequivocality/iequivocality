@@ -19,4 +19,4 @@ on his spare time while rewatching his favorite shows for the 49th time.
 <br>
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,nextjs,nodejs,discordjs,angular,electron,pnpm,py,react,vite,threejs,vercel,vscode&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,tailwind,nextjs,nodejs,discordjs,angular,electron,pnpm,py,react,vite,threejs,vercel,vscode,bots,gitlab,java,jquery,mysql,npm,&perline=8)](https://skillicons.dev)
