@@ -6,6 +6,8 @@ on his spare time while rewatching his favorite shows for the 49th time.
 * [Project Bocchi](https://projectbocchi.vercel.app/map)
 * [Ambi.Moe](https://ambi.moe/)
 * [japan-prefectures-react](https://github.com/iequivocality/japan-prefectures-react)
+* [Vtuber palette](https://vtuber-palette.vercel.app/)
+* [iichizu - fun Japanese maps](https://iichizu.netlify.app/)
 
 🤔 Archived but I still use this as reference for scrapping projects on Python.
 * [Bemiho](https://github.com/iequivocality/bemiho)
