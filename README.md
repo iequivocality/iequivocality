@@ -3,7 +3,7 @@ I'm ambi - a mostly front-end developer currently working as a corporate slave b
 on his spare time while rewatching his favorite shows for the 49th time.
 
 🔭 I’m currently working on
-* [Project Bocchi](https://projectbocchi.vercel.app/map)
+* [Bocchi Map](https://bocchimap.netlify.app)
 * [Ambi.Moe](https://ambi.moe/)
 * [japan-prefectures-react](https://github.com/iequivocality/japan-prefectures-react)
 * [Vtuber palette](https://vtuber-palette.vercel.app/)
