@@ -1,12 +1,12 @@
 ### Hi there 👋!
-I'm ambi - a mostly front-end developer currently working as a corporate slave but loves to code
+I'm ambi - a mostly front-end developer currently working in a corporation but loves to code
 on his spare time while rewatching his favorite shows for the 49th time.
 
 🔭 I’m currently working on
 * [Bocchi Map](https://bocchimap.netlify.app)
 * [Ambi.Moe](https://ambi.moe/)
 * [japan-prefectures-react](https://github.com/iequivocality/japan-prefectures-react)
-* [Vtuber palette](https://vtuber-palette.vercel.app/)
+* [Vtuber palette](https://vtpalette.netlify.app/)
 * [iichizu - fun Japanese maps](https://iichizu.netlify.app/)
 
 🤔 Archived but I still use this as reference for scrapping projects on Python.
