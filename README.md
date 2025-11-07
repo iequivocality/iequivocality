@@ -1,6 +1,7 @@
-### Hi there 👋!
+![Hello](https://capsule-render.vercel.app/api?type=wave&height=300&color=035da1&text=Hi,%20I'm%20ambi&desc=it's%20not%20tsundere%20,it's%20not%20yandere,it's...ambidere&descSize=20&fontAlignY=30&reversal=false&fontColor=ffd270&descAlignY=50)
+
 I'm ambi - a mostly front-end developer currently working in a corporation but loves to code
-on his spare time while rewatching his favorite shows for the 49th time.
+on his spare time while <br/> rewatching his favorite shows for the 49th time.
 
 🔭 I’m currently working on
 * [Bocchi Map](https://bocchimap.netlify.app)
