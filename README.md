@@ -1,4 +1,5 @@
-![Hello](https://capsule-render.vercel.app/api?type=wave&height=300&color=035da1&text=Hi,%20I'm%20ambi&desc=it's%20not%20tsundere%20,it's%20not%20yandere,it's...ambidere&descSize=20&fontAlignY=30&reversal=false&fontColor=ffd270&descAlignY=50)
+![Hello](https://capsule-render.vercel.app/api?type=rect&height=150&color=035da1&text=Hi,%20I'm%20ambi&desc=it's%20not%20tsundere%20,it's%20not%20yandere,it's...ambidere&descSize=20&fontAlignY=47&reversal=false&fontColor=ffd270&descAlignY=76)
+![Amelia](https://3gsjc5ea6e.ufs.sh/f/XKFMxeu19mOCQfjCCgruWpE7y6rm9cAlgCRwaO1Fn43ZoNzL)
 
 I'm ambi - a mostly front-end developer currently working in a corporation but loves to code
 on his spare time while <br/> rewatching his favorite shows for the 49th time.
