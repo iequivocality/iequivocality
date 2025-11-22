@@ -1,4 +1,4 @@
-![Hello](https://capsule-render.vercel.app/api?type=rect&height=150&color=082a49&text=Hi,%20I'm%20ambi&desc=Software%20Engineer.I%20cosplay%20sometimes&descSize=20&fontAlignY=47&reversal=false&fontColor=ffd270&descAlignY=76)
+![Hello](https://capsule-render.vercel.app/api?type=rect&height=150&color=082a49&text=Hi,%20I'm%20ambi&desc=Software%20Engineer.%20I%20cosplay%20sometimes&descSize=20&fontAlignY=47&reversal=false&fontColor=ffd270&descAlignY=76)
 ![Amelia](https://3gsjc5ea6e.ufs.sh/f/XKFMxeu19mOCQfjCCgruWpE7y6rm9cAlgCRwaO1Fn43ZoNzL)
 
 I'm ambi - a mostly front-end developer currently working in a corporation but loves to code
