@@ -6,10 +6,10 @@ on his spare time while <br/> rewatching his favorite shows for the 49th time.
 
 🔭 I’m currently working on
 * [Bocchi Map](https://bocchimap.netlify.app)
-* [Ambi.Moe](https://ambi.moe/)
 * [japan-prefectures-react](https://github.com/iequivocality/japan-prefectures-react)
-* [Vtuber palette](https://vtpalette.netlify.app/)
-* [iichizu - fun Japanese maps](https://iichizu.netlify.app/)
+* [Vtuber palette](https://vtpalette.ambi.moe/)
+* [Raora Soundboard](https://raorasounds.ambi.moe/)
+* [Ambi.Moe](https://ambi.moe/)
 
 🤔 Archived but I still use this as reference for scrapping projects on Python.
 * [Bemiho](https://github.com/iequivocality/bemiho)
