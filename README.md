@@ -24,3 +24,10 @@ on his spare time while <br/> rewatching his favorite shows for the 49th time.
 <br>
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,tailwind,nextjs,nodejs,discordjs,angular,electron,pnpm,py,react,vite,threejs,vercel,vscode,bots,gitlab,java,jquery,mysql,npm,&perline=12)](https://skillicons.dev)
+
+<br>
+
+Donate here
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D45PTSR)
+
